@@ -36,7 +36,7 @@ The model predicts five biomass components from pasture images:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ZulqarnainAli/csiro-biomass-prediction.git
+git clone https://github.com/zulqarnainalipk/CSIRO-Biomass-Prediction.git
 cd csiro-biomass-prediction
 
 # Create virtual environment
@@ -172,6 +172,7 @@ The CSIRO dataset contains:
 - **Multiple seasons** captured from 2014-2017
 - **Diverse camera types** including iPhone 4/5s, Canon, Nikon, Olympus, Sony, HTC
 - **70cm x 30cm quadrats** with laboratory-validated biomass measurements
+You can easily downlaod the full comeptation dataset from kaggle 
 
 ## Acknowledgments
 
