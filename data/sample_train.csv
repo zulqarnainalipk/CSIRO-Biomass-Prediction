@@ -1,0 +1,11 @@
+sample_id,image_path,target_name,target
+ID1001187975__Dry_Green_g,train/ID1001187975.jpg,Dry_Green_g,45.2
+ID1001187975__Dry_Dead_g,train/ID1001187975.jpg,Dry_Dead_g,12.3
+ID1001187975__Dry_Clover_g,train/ID1001187975.jpg,Dry_Clover_g,8.7
+ID1001187975__GDM_g,train/ID1001187975.jpg,GDM_g,53.9
+ID1001187975__Dry_Total_g,train/ID1001187975.jpg,Dry_Total_g,66.2
+ID1001187976__Dry_Green_g,train/ID1001187976.jpg,Dry_Green_g,32.1
+ID1001187976__Dry_Dead_g,train/ID1001187976.jpg,Dry_Dead_g,15.8
+ID1001187976__Dry_Clover_g,train/ID1001187976.jpg,Dry_Clover_g,5.2
+ID1001187976__GDM_g,train/ID1001187976.jpg,GDM_g,37.3
+ID1001187976__Dry_Total_g,train/ID1001187976.jpg,Dry_Total_g,53.1
