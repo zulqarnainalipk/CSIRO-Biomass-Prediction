@@ -4,6 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-green.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)
 
+<p align="center">
+  <img src="data/header.png" alt="Header">
+</p>
+
+
 A deep learning solution for predicting pasture biomass from top-view images. This project achieved **28th place** on the Private Leaderboard and **105th place** on the Public Leaderboard in the CSIRO Image2Biomass Prediction competition.
 
 ## Overview
