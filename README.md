@@ -29,8 +29,8 @@ The model predicts five biomass components from pasture images:
 | Metric | Score |
 |--------|-------|
 | CV R² (Mean) | 0.8438 ± 0.0206 |
-| Private LB | 28th |
-| Public LB | 105th |
+| Private LB | 28th out of 3900 Teams  |
+| Awards | Silver Medal  |
 
 ## Installation
 
